@@ -31,6 +31,6 @@ If the last raid ID copied from Twitter reappears in the program's search, then 
 research Twitter for a new ID. If there is no new raid ID identified, this process will loop and additional queries will be sent.
 Eventually, Twitter will stop any queries that are executed, and this can lead to heavy frustration.
 
-The servers might delay. This causes the program to load the page and click incorrectly. The user can tweak the '''time.sleep``` settings
+The servers might delay. This causes the program to load the page and click incorrectly. The user can tweak the ```time.sleep``` settings
 to adjust the program's delays.
 
