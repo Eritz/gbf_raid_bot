@@ -49,7 +49,6 @@ class GBF():
         text = re.compile(r'[A-Za-z0-9]{8}')
         text_search = text.search(raid)
         raid_id = text_search.group()
-        #pyperclip.copy(raid_id) not yet
         print('Found raid ID: ', raid_id)
         return raid_id
     
@@ -177,7 +176,6 @@ class bot():
             print('Please try again.')
             
     def vira_clicks(self, xy, npim, nppr, counter):
-        # Define start and stop key
             print('Press CTRL+C to exit.')
             print('Starting...\n')
             print('Hovering to Vira icon...')
