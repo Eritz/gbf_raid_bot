@@ -36,10 +36,10 @@ variable if anything.
 
 ## Common Issues
 
-```#1. AttributeError: 'NoneType' object has no attribute 'strip'```
+```AttributeError: 'NoneType' object has no attribute 'strip'```
 
 Refer to this [link](https://github.com/tweepy/tweepy/issues/576)
 
-```#2. Status 420: Rate Limit being exceeded.```
+```Status 420: Rate Limit being exceeded.```
 
 User will have to wait it out.
