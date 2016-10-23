@@ -10,6 +10,13 @@ The program is built using Python 3.X. It needs the Viramate extension installed
 - numpy
 - pyautogui
 
+## How to Use
+- Start the program
+- Save coordinates by following the prompt's instructions (only have to do this once).
+- Load the coordinate
+- Choose the desired raid
+- Run the bot
+
 ## Description
 The program saves coordinates based on the user's mouse coordinates. You only need to save the coordinates once, and it's recommended to 
 place the mouse in each element's middle. It'll save the coordinates to a file, but requires it to be loaded each time the program is run. The bot uses Twitter's Streaming API to catch the newest tweet corresponding to the search keyword. It identifies a string of 8 alphanumeric characters (the raid ID) and copies it. The program will open Viramate, which will automatically enter the copied ID into its wordbox, and click the JOIN button.
@@ -23,12 +30,6 @@ a skill to ensure that you get loot. Viramate's skill button directly triggers t
 randomize the mouse positioning and clicks for it. There is a maximum count of 99 runs, but the user can delete the ```maximum_runs```
 variable if anything.
 
-## How to Use
-- Start the program
-- Save coordinates by following the prompt's instructions (only have to do this once).
-- Load the coordinate
-- Choose the desired raid
-- Run the bot
 
 ## Notes to keep in mind
 - Having a sufficient amount of BP before starting
