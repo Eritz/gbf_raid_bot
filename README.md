@@ -35,8 +35,7 @@ variable if anything.
 - Having a sufficient amount of BP before starting
 - When saving coordinates, aim for the middle of the element
 - For "Choosing a summon' and 'Healing' part for saving coordinates position the mouse around the area shown:
-<img src=imgs/chooseasummon.png/> <img src="imgs/healing.png"/>
-![alt text](imgs/chooseasummon.png) ![alt text](imgs/healing.png) 
+<img src="imgs/chooseasummon.png"/> <img src="imgs/healing.png"/>
 
 ## Common Issues
 
